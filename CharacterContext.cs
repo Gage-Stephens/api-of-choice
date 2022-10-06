@@ -19,7 +19,7 @@ namespace APIofChoiceGage
             modelBuilder.Entity<Character>().HasData(
                 new Character() { Id = 1, Name = "Olfric", Strength = 50, Health = 50, Race = "Nord"},
                 new Character() { Id = 2, Name = "Cicero", Strength = 50, Health = 50, Race = "RedGuard"});
-
+            //gitpush
         }
     }
 }
